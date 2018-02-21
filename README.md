@@ -1,10 +1,10 @@
 # LUMDB - Level Up Movie Database
 
-![LUMDB - List View](https://ashley.one/img/lumdb-list.png)
+![LUMDB - List View](./docs/lumdb-list.png)
 
 ## Introduction
 
-LUMDB is a small React app that lists the most popular movies from [The Movie DB](https://www.themoviedb.org/) and displays details of a movie when its poster is clicked.
+LUMDB is a React app that lists the most popular movies from [The Movie DB](https://www.themoviedb.org/) and displays details of a movie when its poster is clicked.
 
 The app was created while completing the [React 16 for Everyone](https://www.leveluptutorials.com/tutorials/react-16-for-everyone), a React course by [Level Up Tutorials](https://www.leveluptutorials.com).
 
@@ -61,11 +61,11 @@ Builds the app for production to the `build` folder.<br>
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.<br>
-By default, it also [includes a service worker](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#making-a-progressive-web-app) so that the app loads from local cache on future visits.
+By default, it also [includes a service worker](./docs/create-react-app-readme.md#making-a-progressive-web-app) so that the app loads from local cache on future visits.
 
 ### More information
 
-For more create-react-app commands, see the create-react-app [README](https://github.com/ashdavis/catch-of-the-day/blob/master/create-react-app-readme.md).
+For more create-react-app commands, see the create-react-app [README](./docs/create-react-app-readme.md).
 
 
 ## Technology Used
